@@ -4,9 +4,9 @@
 
 I believe in an open, accessible, performant web, and I want to help out with that.
 
-If you're interested, check out this website I designed and built, wholepigeon.com, on [GitHub](https://github.com/bost-ty/wholepigeon) or [live](https://wholepigeon.com). I'm open to feedback, issues, or PRs that make it better! (Or just order some dope custom embroidery -- WP is amazing!)
-
 🔭 I’m currently working on **an updated portfolio website**. Turns out the building is easy if you just pick the technology and get started!
+
+I designed and built [wholepigeon.com](wholpigeon.com). You can see the repo [here on GitHub](https://github.com/bost-ty/wholepigeon) as well.
 
 
 <!--
