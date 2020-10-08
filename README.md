@@ -12,7 +12,7 @@ I beleive that the most successful companies invest in people, teams, and proces
 
 I designed and built [wholepigeon.com](wholpigeon.com). You can see the repo [here on GitHub](https://github.com/bost-ty/wholepigeon) as well.
 
-📫 How to reach me: **on Twitter @bost-ty** (click the link on my profile!).
+📫 How to reach me: I'm on Twitter as [@bost-ty](https://twitter.com/bost-ty/)
 
 <!--
 **bost-ty/bost-ty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
