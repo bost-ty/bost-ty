@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-#### ✨ I'm open to employment, collaboration, and new projects! ✨
+#### ✨ Looking for new opportunities ✨
 
 🌱 I’m currently learning **more about serverless**.
 
-I believe in an open, accessible, performant web, and I want to help out with that.
-
-I beleive that the most successful companies invest in people, teams, and processes that enable success. 
+I believe in an open, accessible, performant web, and I want to be a part of it. 
 
 🔭 I’m currently working on **an updated portfolio website**. Turns out the building is easy if you just pick the technology and get started!
 
