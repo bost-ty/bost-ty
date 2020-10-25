@@ -6,7 +6,7 @@
 
 I believe in an open, accessible, performant web, and I want to be a part of it. 
 
-🔭 I’m currently working on **an updated portfolio website**. Turns out the building is easy if you just pick the technology and get started!
+<!-- 🔭 I’m currently working on **getting fancier with React**. -->
 
 I designed and built [wholepigeon.com](wholpigeon.com). You can see the repo [here on GitHub](https://github.com/bost-ty/wholepigeon) as well.
 
