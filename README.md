@@ -8,7 +8,7 @@ I believe in an open, accessible, performant web, and I want to be a part of it.
 
 <!-- 🔭 I’m currently working on **getting fancier with React**. -->
 
-I designed and built [wholepigeon.com](wholepigeon.com). You can see the repo [here on GitHub](https://github.com/bost-ty/wholepigeon) as well.
+I designed and built [wholepigeon.com](https://wholepigeon.com). You can see the repo [here on GitHub](https://github.com/bost-ty/wholepigeon) as well.
 
 📫 How to reach me: I'm on Twitter as [@bost-ty](https://twitter.com/bost-ty/)
 
