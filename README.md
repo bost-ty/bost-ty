@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Will. I also have a [portfolio website](https://bostwick.dev).
+
 #### ✨ Looking for new opportunities ✨
 
 🌱 I’m currently learning **more about serverless**.
