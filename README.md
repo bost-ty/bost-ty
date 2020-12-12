@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-I'm Will. I also have a [portfolio website](https://bostwick.dev).
+I'm Will, a self-taught web developer who loves the internet. I have a shiny [portfolio website](https://bostwick.dev).
 
-#### ✨ Looking for new opportunities ✨
+#### 
 
-🌱 I’m currently learning **more about serverless**.
+🌱 I’m currently learning **even more React** (it never ends!).
 
 I believe in an open, accessible, performant web, and I want to be a part of it. 
 
-<!-- 🔭 I’m currently working on **getting fancier with React**. -->
+🔭 I’m currently working on **a small but mighty redesign for my portfolio site**.
 
-I designed and built [wholepigeon.com](https://wholepigeon.com). You can see the repo [here on GitHub](https://github.com/bost-ty/wholepigeon) as well.
+I designed and built [wholepigeon.com](https://wholepigeon.com). You can check out the repo [here on GitHub](https://github.com/bost-ty/wholepigeon).
 
 📫 How to reach me: I'm on Twitter as [@bost-ty](https://twitter.com/bost-ty/)
 
