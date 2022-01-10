@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Will, a self-taught web developer who loves the internet.
+I'm a self-taught web developer who loves the internet.
 
 I believe in an open, accessible, performant web, and I want to be a part of it. 
 
