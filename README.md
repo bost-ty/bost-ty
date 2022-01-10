@@ -8,4 +8,4 @@ I designed and built [wholepigeon.com](https://wholepigeon.com). You can check o
 
 I build things that work with Twitch and live data to make other fun things happen.
 
-📫 How to reach me: I'm on Twitter as [@bost-ty](https://twitter.com/bost-ty/)
+📫 Reach me on Twitter [@bost-ty](https://twitter.com/bost_ty/)
