@@ -1,11 +1,7 @@
-### Hi there 👋
+### Hi!
 
-I'm a self-taught web developer who loves the internet.
+I've been developing for various platforms for almost 15 years. Lately, I've been using JavaScript (with Node) and Python (with TouchDesigner) to design, implement, and run interactive experiences for live shows viewed by millions.
 
-I believe in an open, accessible, performant web, and I want to be a part of it. 
+I believe deeply in open source and the potential for it to help make lives better.
 
-I designed and built [wholepigeon.com](https://wholepigeon.com). You can check out the repo [here on GitHub](https://github.com/bost-ty/wholepigeon).
-
-I build things that work with Twitch and live data to make other fun things happen.
-
-📫 Reach me on Twitter [@bost-ty](https://twitter.com/bost_ty/)
+Talk to you later!
