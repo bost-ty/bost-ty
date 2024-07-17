@@ -1,9 +1,9 @@
-### Hi!
+# bost-ty
 
-I've been developing for various platforms for almost 15 years. Lately, I've been using JavaScript (with Node) and Python (with TouchDesigner) to design, implement, and run interactive experiences for live shows viewed by millions.
+Hi! I'm a developer with a cross-disciplinary background in data, product, front-end, and interactive media.
 
-I'm currently learning the deep cutting-edge of Unreal Engine 5 and its unique ecosystem.
+If you use Firefox, check out `ff-lucid`, my Firefox port of Daniel Eden's Chrome extension `Lucid`. It supports additional user settings, Firefox Sync, and handles Firefox even when configured for extremely high security and privacy.
 
-I believe deeply in open source technology and the potential for it to help make lives better and to help make the web and tech more accessible to all.
+A lot of my work *isn't* on GitHub because it's, well, for work and I can't share it in public.
 
-Talk to you later!
+:)
