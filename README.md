@@ -9,6 +9,7 @@ Web platform first when possible; always performant and useful.
 - TypeScript, JavaScript, React, Svelte
 - HTML, CSS, SCSS, Tailwind, shadcn
 - Node (Node.js, NodeJS, what's your favorite way to write it?)
+- WebSockets
 - Python for ML, DA, and [live interactive graphics/installations](https://derivative.ca/)
 
 ## Projects
