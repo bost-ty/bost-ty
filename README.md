@@ -10,9 +10,8 @@ Web platform first when possible; always performant, accessible, and useful.
 - HTML, CSS, SCSS, and Tailwind CSS
 - WebSockets, Server Sent Events (SSE), OSC, and other  protocols
 - Python for ML, DA, and [live interactive graphics/installations](https://derivative.ca/)
-- SQLite for smaller deployments
 
-Lately, I've been having a great time using SvelteKit to power apps and APIs.
+Lately, I've been having a great time using SvelteKit to power apps and APIs and using SQLite in WAL mode (no issues even when getting over 40,000 writes/minute).
 
 ## Projects
 
