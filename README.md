@@ -1,16 +1,18 @@
 # Hi, I'm Will. 
 
-I'm a developer with a cross-disciplinary background in product, data, and interactive experiences.
+I'm a product-focused engineer with a cross-disciplinary background in design, interactive experiences, and data.
 
 ## Technologies
 
 Web platform first when possible; always performant, accessible, and useful.
 
-- TypeScript, JavaScript, React, Svelte
-- HTML, CSS, SCSS, Tailwind, shadcn/radix/Melt
-- Node (Node.js, NodeJS, what's your favorite way to write it?)
-- WebSockets and other "real-time" protocols
+- TypeScript, JavaScript, Svelte 5, React
+- HTML, CSS, SCSS, and Tailwind CSS
+- WebSockets, Server Sent Events (SSE), OSC, and other  protocols
 - Python for ML, DA, and [live interactive graphics/installations](https://derivative.ca/)
+- SQLite for smaller deployments
+
+Lately, I've been having a great time using SvelteKit to power apps and APIs.
 
 ## Projects
 
@@ -21,7 +23,7 @@ Web platform first when possible; always performant, accessible, and useful.
 - Bird Suite
   - A frontend-based Twitch analytics app that enables event tagging, knows the difference between a "viewer" and a "chatter", and makes it simple to find out what makes people join and watch a Twitch livestream.
 
-A lot of my *really funly* work is client-based and so isn't public on GitHub, but I hope you'll take a look around my projects/repos and see what looks cool to you.
+A lot of my *really fun* work is client-based and so isn't public on GitHub, but I hope you'll take a look around my projects/repos and see what looks cool to you.
 
 Thanks!
 
