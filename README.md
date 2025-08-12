@@ -1,17 +1,10 @@
-# Hi, I'm Will. 
+Hi, I'm Will.
 
-I'm a product-focused engineer with a cross-disciplinary background in design, interactive experiences, and data.
+I'm a *Creative Technology Developer*. I use design and engineering to solve people's problems.
 
-## Technologies
+I like to talk to users, design playful experiences, do a bit of writing, and leave things better than I found them.
 
-Web platform first when possible; always performant, accessible, and useful.
-
-- TypeScript, JavaScript, Svelte 5, React
-- HTML, CSS, SCSS, and Tailwind CSS
-- WebSockets, Server Sent Events (SSE), OSC, and other  protocols
-- Python for ML, DA, and [live interactive graphics/installations](https://derivative.ca/)
-
-Lately, I've been having a great time using SvelteKit to power apps and APIs and using SQLite in WAL mode (no issues even when getting over 40,000 writes/minute).
+I have a background in creativity & collaboration and a life-long passion for technology. I built my first website in 2003. I built [this website](https://bostwick.dev) in 2025.
 
 ## Projects
 
@@ -21,9 +14,12 @@ Lately, I've been having a great time using SvelteKit to power apps and APIs and
   - Designed to reduce cognitive overhead for technical directors building their projects, reducing errors and making it easier to get to the interesting stuff. 
 - Bird Suite
   - A frontend-based Twitch analytics app that enables event tagging, knows the difference between a "viewer" and a "chatter", and makes it simple to find out what makes people join and watch a Twitch livestream.
+- Bird Talk
+-   A full-stack application for managing livestream interactivity. Simplifies the complicated parts and doesn't break when the show is busy.
 
-A lot of my *really fun* work is client-based and so isn't public on GitHub, but I hope you'll take a look around my projects/repos and see what looks cool to you.
+A lot of my *really fun and cool* work is client-based and not public, but I hope you'll take a look around my projects/repos and see what looks cool to you.
 
-Thanks!
+Cheers,
+Will
 
 :)
