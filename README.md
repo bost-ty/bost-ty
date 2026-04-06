@@ -1,10 +1,10 @@
 Hi, I'm Will.
 
-I'm a *Creative Technology Developer*. I use design and engineering to solve people's problems.
+I'm a *Creative Technology Developer*. I use communication, design, and engineering to solve people's problems.
 
-I like to talk to users, design playful experiences, do a bit of writing, and leave things better than I found them.
+I like to talk to users, do a bit of writing, and leave things better than I found them.
 
-I have a background in creativity & collaboration and a life-long passion for technology. I built my first website in 2003. I built [this website](https://bostwick.dev) in 2025.
+I have a background in creativity & collaboration and a life-long passion for technology. I built my first website in elementary school. I built [this website](https://bostwick.dev) in 2025.
 
 ## Projects
 
